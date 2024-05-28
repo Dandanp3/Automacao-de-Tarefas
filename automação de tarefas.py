@@ -3,7 +3,7 @@ import time
 import pandas as pd
 import pyperclip
 
-# Passo 1: Acessar sistema da empresa
+# 1 - Acessar sistema da empresa
 pyautogui.press("win")
 pyautogui.write("brave")
 time.sleep(1)
